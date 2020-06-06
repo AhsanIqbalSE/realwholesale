@@ -1,0 +1,49 @@
+.header1 {
+    /* border: steelblue 1px solid; */
+    max-height: 50px;
+}
+
+.cardimage {
+    border: steelblue 1px solid;
+    height: 40px;
+}
+
+.parentContainer {
+    font-family: "Helvetica";
+    /* border: 2px blue dotted; */
+}
+
+.container {
+    font-family: "Helvetica";
+    background-color: #F8F9FA;
+    border-radius: 15px;
+    /* border: 2px blue dotted; */
+}
+
+.image1 img {
+    /* border: 2px red dotted; */
+    max-height: 120px;
+}
+
+.text1 {
+    font-size: 13px;
+}
+
+.col {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    margin-bottom: 0px;
+    /* border: fuchsia 1px dotted; */
+}
+
+.row1 {
+    margin: 15px 0px;
+    padding: 20px 0;
+}
+
+.text2 {
+    height: 20px;
+    font-size: 16px;
+    float: right;
+}
